@@ -11,11 +11,11 @@ O projeto simula a diferença entre manter estoque estagnado (Cenário A) e adot
 
 Diferenciais Técnicos
 
-  Parâmetros Dinâmicos (What-if): O usuário pode simular em tempo real o tempo de giro do estoque (de 1 a 8 semanas) e ver o impacto imediato no ROI.
+ -> Parâmetros Dinâmicos (What-if): O usuário pode simular em tempo real o tempo de giro do estoque (de 1 a 8 semanas) e ver o impacto imediato no ROI.
 
-  DAX Estratégico: Medidas calculadas para juros compostos de reinvestimento e retorno sobre investimento.
+ -> DAX Estratégico: Medidas calculadas para juros compostos de reinvestimento e retorno sobre investimento.
 
-  UX Design & Alertas: Aplicação de formatação condicional (KPIs que mudam de cor) para sinalizar zonas de risco operacional (Vermelho) ou sucesso (Verde).
+ -> UX Design & Alertas: Aplicação de formatação condicional (KPIs que mudam de cor) para sinalizar zonas de risco operacional (Vermelho) ou sucesso (Verde).
 
 
 Insights de Negócio
