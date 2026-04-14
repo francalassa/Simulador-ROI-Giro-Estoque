@@ -1,4 +1,4 @@
-Simulador de ROI e Estratégia de Giro de Estoque
+Simulador de ROI e Estratégia de Giro de Estoque 
 Dashboard interativo em Power BI para otimização de fluxo de caixa e simulação de rentabilidade.
 
 Descrição do Projeto
