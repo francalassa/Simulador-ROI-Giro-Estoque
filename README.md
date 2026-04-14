@@ -16,5 +16,5 @@ Insights de Negócio
 O modelo prova que a velocidade do giro é um multiplicador de capital mais potente que a margem unitária. 
 Com um giro eficiente, é possível alcançar um ROI superior a 1.700% em 12 semanas, partindo de um capital inicial de R$ 10.000,00.
 
-![Preview do Dashboard](Simulador ROI - Giro de estoque.png)
-![Preview do Dashboard](Simulador ROI - Risco.png)
+![Preview do Dashboard](Simulador_ROI_Giro_estoque.png)
+![Preview do Dashboard](Simulador_ROI_Risco.png)
